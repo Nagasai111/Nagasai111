@@ -1,4 +1,63 @@
-## Hi there 👋
+# 👋 Hi, I'm Nagulapati Sri Nagasai
+
+🎓 Final-year B.Tech student in **Electrical & Electronics Engineering**  
+💻 Aspiring **Software Developer** | Passionate about **Web Development** & **Data Science**  
+📍 Nandigama, Krishna District | 📧 nagulapatinagasai111@gmail.com | 📱 +91-9542201278  
+
+---
+
+## 🧭 Career Objective
+
+Highly motivated and detail-oriented engineering graduate looking to kickstart my career in the IT industry. Passionate about building scalable applications and solving real-world problems using technology. Eager to grow with a collaborative team and contribute to meaningful projects.
+
+---
+
+## 🛠️ Skills & Technologies
+
+- **Languages:** Python  
+- **Web:** HTML, CSS, JavaScript  
+- **Databases:** MySQL, Oracle  
+- **Tools/OS:** Windows, Ubuntu  
+- **Soft Skills:** Problem Solving, Communication, Time Management  
+
+---
+
+## 📚 Education
+
+**Bachelor of Technology - Electrical & Electronics Engineering**  
+DVR & DRHS MIC College of Technology, Kanchikacherla  
+📅 2020 – 2024 | 🎯 CGPA: 7.10 / 10  
+
+---
+
+## 🚀 Projects
+
+### 🔐 Fraud Detection in Banking Data Using Machine Learning
+> **Tech Stack:** Python, Django, HTML, CSS, MySQL  
+- Built a machine learning model to detect banking fraud with high accuracy  
+- Integrated the model into a Django web app for real-time interaction  
+- Designed a user-friendly interface using HTML and CSS  
+- Preprocessed data and fine-tuned model to improve detection rate  
+
+---
+
+## 📜 Certifications
+
+- 🟢 **Python Full Stack Development** – JSpiders  
+
+---
+
+## 📈 GitHub Stats
+
+![Nagulapati's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nagasai111&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nagasai111&layout=compact&theme=radical)
+
+---
+
+## 🌐 Let's Connect!
+
+[LinkedIn](https://linkedin.com/in/your-linkedin-id) • [GitHub](https://github.com/your-github-Nagasai111) • 📧 nagulapatinagasai111@gmail.com
+
 
 <!--
 **Nagasai111/Nagasai111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
